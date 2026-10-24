@@ -1,4 +1,4 @@
-# 🩺 Advanced AI Healthcare Assistant & Analytics Dashboard
+# 🩺 AI Healthcare Assistant & Analytics Dashboard
 
 An intelligent, full-stack healthcare chatbot and analytics web application powered by **Machine Learning (TF-IDF & Logistic Regression)** trained on **25,000+ medical records** from Kaggle. Built with Python and Streamlit, this application features a real-time conversational interface, automated dataset ingestion, and a patient vitals analytics dashboard.
 
